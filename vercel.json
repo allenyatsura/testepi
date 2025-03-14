@@ -1,0 +1,11 @@
+{
+  "user": {
+    "id": 1,
+    "name": "João Silva",
+    "email": "joao.silva@email.com",
+    "createdAt": "2025-03-14T12:00:00Z",
+    "updatedAt": "2025-03-14T12:00:00Z"
+  }
+}
+
+{ "rewrites": [{ "source": "/(.*)", "destination": "/" }] }
